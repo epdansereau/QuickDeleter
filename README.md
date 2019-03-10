@@ -1,2 +1,2 @@
 # QuickDeleter
-Display and quickly delete images in Jupyter Notebook
+This Jupyter Notebook allows to quickly delete images to clean a dataset for machine learning
